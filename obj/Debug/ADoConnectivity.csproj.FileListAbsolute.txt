@@ -1,0 +1,8 @@
+E:\DUCAT\Back End\ADO.NET\ADoConnectivity\bin\Debug\ADoConnectivity.exe.config
+E:\DUCAT\Back End\ADO.NET\ADoConnectivity\bin\Debug\ADoConnectivity.exe
+E:\DUCAT\Back End\ADO.NET\ADoConnectivity\bin\Debug\ADoConnectivity.pdb
+E:\DUCAT\Back End\ADO.NET\ADoConnectivity\obj\Debug\ADoConnectivity.csproj.AssemblyReference.cache
+E:\DUCAT\Back End\ADO.NET\ADoConnectivity\obj\Debug\ADoConnectivity.csproj.SuggestedBindingRedirects.cache
+E:\DUCAT\Back End\ADO.NET\ADoConnectivity\obj\Debug\ADoConnectivity.csproj.CoreCompileInputs.cache
+E:\DUCAT\Back End\ADO.NET\ADoConnectivity\obj\Debug\ADoConnectivity.exe
+E:\DUCAT\Back End\ADO.NET\ADoConnectivity\obj\Debug\ADoConnectivity.pdb
